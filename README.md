@@ -7,3 +7,5 @@ Avance 2
 Editado a mano desde la interfaz web de Github.com
 
 Editado miércoles 20221026174026
+
+Editado a mano desde la interfaz web de Github.com 20221026174625
